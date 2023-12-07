@@ -1,2 +1,3 @@
 # advent-of-code-2023
-here's solutions to AOC 2023. 
+
+AOC 2023 completely solved solutions repository
