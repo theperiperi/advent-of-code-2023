@@ -1,4 +1,4 @@
-lines=[]
+0lines=[]
 for i in range(4):
     lines.append(input())
 
